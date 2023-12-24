@@ -96,4 +96,7 @@
   footer {
     align-items: center;
   }
+  .footer_navs_cont{
+    gap: 10px;
+  }
 }
